@@ -6,8 +6,7 @@ public class Solution {
 		// v - объем, l - left, r - right		
 
 		while (l != r) {
-			v = Math.max(v, 
-(Math.min(height[l], height[r] * (r - l))));
+			v = Math.max(v, (Math.min(height[l], height[r] * (r - l))));
 			if (height[l] <= height[r]) {
 				l++;
 			} else {
