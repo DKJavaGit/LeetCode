@@ -1,2 +1,4 @@
 # LeetCode
-All my decision on leetcode and something like that
+Все мои решения с Литкода, Кодрана и т.д
+
+Ветка leetcode - решения с литкода
